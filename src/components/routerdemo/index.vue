@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <button @click="click1">动态路由匹配</button>
+    <button @click="click1">动态路由匹配初体验</button>
   </div>
 </template>
 
